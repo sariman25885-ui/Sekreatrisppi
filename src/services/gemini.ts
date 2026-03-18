@@ -58,7 +58,7 @@ Silakan proses input audio dan gambar berikut untuk menyusun laporan temuan.`;
   ];
 
   const response = await ai.models.generateContent({
-    model: "gemini-3-flash-preview",
+    model: "gemini-flash-latest",
     contents: [{ role: "user", parts }],
   });
 
