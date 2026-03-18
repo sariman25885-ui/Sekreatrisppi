@@ -1,0 +1,7 @@
+{
+  "name": "Sekretaris IPCN AI",
+  "description": "Sistem otomatisasi laporan supervisi IPCN berbasis AI untuk tenaga kesehatan.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
